@@ -1,8 +1,8 @@
 # Samyak Jain
 
-### Backend Systems Engineer · Data Infrastructure · Applied AI
+### Senior Backend Engineer · Senior SDE Target · Data Infrastructure · Applied AI
 
-I build production backend systems that handle real traffic: Kafka pipelines, high-throughput APIs, distributed data platforms, and AI-native engineering tools.
+I build production backend systems that handle real traffic: Kafka pipelines, high-throughput APIs, distributed data platforms, and AI-native engineering tools. Currently positioning for Senior SDE / Senior Backend Engineer roles.
 
 <p align="left">
   <a href="https://samyak-jain7.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-samyak--jain7.github.io%2Fportfolio-00E5FF?style=for-the-badge&logo=githubpages&logoColor=001116" alt="Portfolio" /></a>
@@ -40,26 +40,14 @@ I care about systems that are **boring in production** and impressive under load
 <table>
   <tr>
     <td width="50%">
+      <h3><a href="https://github.com/Samyak-jain7/document-intelligence">Document Intelligence</a></h3>
+      <p>RAG-based document intelligence platform for PDF upload, semantic search, and AI-powered document chat.</p>
+      <p><b>Python · RAG · Vector Search · PDF Processing</b></p>
+    </td>
+    <td width="50%">
       <h3><a href="https://github.com/Samyak-jain7/multi-agent-orchestrator">Multi-Agent Orchestrator</a></h3>
       <p>Visual platform to configure and run multiple AI agents for complex tasks.</p>
       <p><b>TypeScript · React · AI Agents · Workflows</b></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Samyak-jain7/document-intelligence">Document Intelligence</a></h3>
-      <p>RAG-based platform for PDF upload, semantic search, and AI-powered document chat.</p>
-      <p><b>Python · RAG · Vector Search · PDF Processing</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Samyak-jain7/llm-gateway">LLM Gateway</a></h3>
-      <p>Go-based gateway exploring LLM API routing, service boundaries, and backend design.</p>
-      <p><b>Go · APIs · Backend Infrastructure</b></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Samyak-jain7/llm-observability-lite">LLM Observability Lite</a></h3>
-      <p>Lightweight observability tooling for LLM workflows, traces, and debugging.</p>
-      <p><b>Python · Observability · LLMOps</b></p>
     </td>
   </tr>
 </table>
@@ -87,16 +75,16 @@ I care about systems that are **boring in production** and impressive under load
 
 ## Current Focus
 
-- Strengthening system design for senior backend interviews.
+- Targeting Senior SDE / Senior Backend Engineer roles.
+- Strengthening system design depth for senior-level interviews.
 - Building AI infrastructure projects that are useful, deployable, and demo-worthy.
-- Turning backend/data engineering experience into a sharper public portfolio.
 
 ---
 
 <div align="center">
 
-### Open to backend, data infrastructure, and AI engineering roles.
+### Open to Senior SDE / Senior Backend Engineer roles.
 
-If you're building systems where scale, reliability, and product velocity all matter — let's talk.
+If you're building systems where scale, reliability, ownership, and product velocity all matter — let's talk.
 
 </div>
