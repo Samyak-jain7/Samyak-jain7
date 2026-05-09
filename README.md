@@ -1,8 +1,8 @@
 # Samyak Jain
 
-### Senior Backend Engineer · Senior SDE Target · Data Infrastructure · Applied AI
+### Senior Backend Engineer · Remote USD Roles · Freelance AI/Backend Contracts
 
-I build production backend systems that handle real traffic: Kafka pipelines, high-throughput APIs, distributed data platforms, and AI-native engineering tools. Currently positioning for Senior SDE / Senior Backend Engineer roles.
+I build production backend and AI systems for teams that need execution fast: Kafka pipelines, high-throughput APIs, distributed data platforms, RAG systems, and internal automation tools. Available for Senior SDE / Senior Backend roles, remote USD opportunities, and selective freelance contracts.
 
 <p align="left">
   <a href="https://samyak-jain7.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-samyak--jain7.github.io%2Fportfolio-00E5FF?style=for-the-badge&logo=githubpages&logoColor=001116" alt="Portfolio" /></a>
@@ -35,18 +35,18 @@ I care about systems that are **boring in production** and impressive under load
 
 ---
 
-## Featured Projects
+## Contract-Relevant Projects
 
 <table>
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/Samyak-jain7/document-intelligence">Document Intelligence</a></h3>
-      <p>RAG-based document intelligence platform for PDF upload, semantic search, and AI-powered document chat.</p>
+      <p>RAG-based document intelligence platform for PDF upload, semantic search, and AI-powered document chat — relevant for knowledge-base automation, legal/finance docs, support, and internal research workflows.</p>
       <p><b>Python · RAG · Vector Search · PDF Processing</b></p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/Samyak-jain7/multi-agent-orchestrator">Multi-Agent Orchestrator</a></h3>
-      <p>Visual platform to configure and run multiple AI agents for complex tasks.</p>
+      <p>Visual platform to configure and run multiple AI agents for complex tasks — relevant for workflow automation, internal ops tooling, and agentic business process prototypes.</p>
       <p><b>TypeScript · React · AI Agents · Workflows</b></p>
     </td>
   </tr>
@@ -75,16 +75,16 @@ I care about systems that are **boring in production** and impressive under load
 
 ## Current Focus
 
-- Targeting Senior SDE / Senior Backend Engineer roles.
-- Strengthening system design depth for senior-level interviews.
+- Targeting Senior SDE / Senior Backend Engineer roles, especially remote USD opportunities.
+- Taking selective freelance contracts around AI apps, RAG systems, backend APIs, data pipelines, and internal automation.
 - Building AI infrastructure projects that are useful, deployable, and demo-worthy.
 
 ---
 
 <div align="center">
 
-### Open to Senior SDE / Senior Backend Engineer roles.
+### Open to Senior SDE roles, remote USD opportunities, and selective freelance contracts.
 
-If you're building systems where scale, reliability, ownership, and product velocity all matter — let's talk.
+If you're building systems where scale, reliability, ownership, AI automation, and product velocity all matter — let's talk.
 
 </div>
