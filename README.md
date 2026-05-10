@@ -5,7 +5,7 @@
 I build production backend and AI systems for teams that need execution fast: Kafka pipelines, high-throughput APIs, distributed data platforms, RAG systems, and internal automation tools. Available for Senior SDE / Senior Backend roles, remote USD opportunities, and selective freelance contracts.
 
 <p align="left">
-  <a href="https://samyak-jain7.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-samyak--jain7.github.io%2Fportfolio-00E5FF?style=for-the-badge&logo=githubpages&logoColor=001116" alt="Portfolio" /></a>
+  <a href="https://samyak-jain7.github.io/samyak-portfolio/"><img src="https://img.shields.io/badge/Portfolio-samyak--jain7.github.io%2Fportfolio-00E5FF?style=for-the-badge&logo=githubpages&logoColor=001116" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/silver-samyak"><img src="https://img.shields.io/badge/LinkedIn-silver--samyak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sj221097@gmail.com"><img src="https://img.shields.io/badge/Email-sj221097%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
