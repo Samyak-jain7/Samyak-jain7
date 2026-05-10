@@ -62,29 +62,6 @@ I care about systems that are **boring in production** and impressive under load
 
 ---
 
-## GitHub Snapshot
-
-<table>
-  <tr>
-    <td><b>Primary direction</b></td>
-    <td>Senior Backend · Data Infrastructure · Applied AI</td>
-  </tr>
-  <tr>
-    <td><b>Strongest repos</b></td>
-    <td><a href="https://github.com/Samyak-jain7/multi-agent-orchestrator">multi-agent-orchestrator</a> · <a href="https://github.com/Samyak-jain7/document-intelligence">document-intelligence</a> · <a href="https://github.com/Samyak-jain7/llm-observability-lite">llm-observability-lite</a></td>
-  </tr>
-  <tr>
-    <td><b>Core languages</b></td>
-    <td>Java · Python · Go · TypeScript · C++</td>
-  </tr>
-  <tr>
-    <td><b>Backend systems</b></td>
-    <td>Kafka · Redis · MongoDB · PostgreSQL · Kubernetes · AWS</td>
-  </tr>
-</table>
-
----
-
 ## Current Focus
 
 - Targeting Senior SDE / Senior Backend Engineer roles, especially remote USD opportunities.
